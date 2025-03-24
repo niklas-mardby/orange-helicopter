@@ -1,2 +1,3 @@
-# orange-helicopter
-A demo for students
+# 🍊🚁 orange-helicopter
+
+A demo for students of React.
