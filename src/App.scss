@@ -1,0 +1,16 @@
+h1 {
+	border: 2px solid black;
+	border-radius: 15px;
+	height: 4rem;
+	margin: 0;
+	padding: 0.2rem;
+	display: flex;
+	transition: 500ms;
+	background-color: lightblue;
+
+	&:hover {
+		transform: scale(1.01);
+		background-color: white;
+		border: 5px solid orange;
+	}
+}
