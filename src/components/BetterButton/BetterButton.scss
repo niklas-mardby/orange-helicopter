@@ -1,7 +1,7 @@
 .BetterButton {
 	padding: 1rem;
-}
 
-.hasAqua {
-	background-color: aqua;
+	&.hasAqua {
+		background-color: aqua;
+	}
 }
