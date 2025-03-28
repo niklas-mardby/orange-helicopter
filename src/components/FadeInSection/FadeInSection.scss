@@ -1,0 +1,11 @@
+.FadeInSection {
+	opacity: 0;
+	transform: translateY(50px);
+	transition: opacity var(--animation-duration) ease-out,
+		transform var(--animation-duration) ease-out;
+
+	&--visible {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
